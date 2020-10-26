@@ -1,4 +1,4 @@
-class PygobjectAT2287 < Formula
+class Pygobject < Formula
   desc "GLib/GObject/GIO Python bindings for Python 2"
   homepage "https://wiki.gnome.org/Projects/PyGObject"
   url "https://download.gnome.org/sources/pygobject/2.28/pygobject-2.28.7.tar.xz"
